@@ -1,0 +1,4 @@
+networkx==2.*
+numpy==1.*
+matplotlib==3.*
+scipy==1.*
